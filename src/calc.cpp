@@ -2,7 +2,7 @@
 
 using namespace std;
 
-Calc::vector<double> input()
+vector<double> Calc::input()
 {
 
 }
