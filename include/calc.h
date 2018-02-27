@@ -4,6 +4,8 @@
 #include <iostream>
 #include <vector>
 
+namespace Calc {
 std::vector<double> input();
+}
 
 #endif
