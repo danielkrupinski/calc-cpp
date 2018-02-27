@@ -4,4 +4,6 @@
 #include <iostream>
 #include <vector>
 
+vector<double> input();
+
 #endif
