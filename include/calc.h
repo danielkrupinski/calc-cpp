@@ -2,5 +2,6 @@
 #define CALC_H
 
 #include <iostream>
+#include <vector>
 
 #endif
