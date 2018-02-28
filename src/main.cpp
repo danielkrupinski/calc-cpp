@@ -2,5 +2,6 @@
 
 int main()
 {
+    Calc::init();
     return 0;
 }
