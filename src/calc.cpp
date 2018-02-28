@@ -2,9 +2,9 @@
 
 using namespace std;
 
-void init()
+void Calc::init()
 {
-    
+
 }
 
 vector<double> Calc::input()
