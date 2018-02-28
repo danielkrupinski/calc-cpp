@@ -13,6 +13,8 @@ namespace Calc {
     };
 
     data input();
+
+    void process(data);
 }
 
 #endif
