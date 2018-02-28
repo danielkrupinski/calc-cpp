@@ -5,8 +5,8 @@
 #include <vector>
 
 namespace Calc {
-void init();
-std::vector<double> input();
+    void init();
+    std::vector<double> input();
 }
 
 #endif
