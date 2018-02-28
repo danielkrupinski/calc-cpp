@@ -14,3 +14,8 @@ Calc::data Calc::input()
     cin >> data.number >> data.operation >> data.number2;
     return data;
 }
+
+void Calc::process(data data)
+{
+    
+}
