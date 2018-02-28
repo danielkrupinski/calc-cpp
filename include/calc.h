@@ -7,11 +7,11 @@
 namespace Calc {
     void init();
 
-    struct input {
+    struct data {
         double number, number2;
         char operation;
     };
-    
+
     double input();
 }
 
