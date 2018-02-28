@@ -6,7 +6,7 @@
 
 namespace Calc {
     void init();
-    std::vector<double> input();
+    double input();
 }
 
 #endif
