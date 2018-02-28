@@ -8,7 +8,7 @@ void Calc::init()
             "Enter operation: ";
 }
 
-double Calc::input()
+Calc::data Calc::input()
 {
 
 }

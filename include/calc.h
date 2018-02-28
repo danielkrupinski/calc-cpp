@@ -12,7 +12,7 @@ namespace Calc {
         char operation;
     };
 
-    double input();
+    data input();
 }
 
 #endif
