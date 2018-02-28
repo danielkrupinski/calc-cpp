@@ -10,5 +10,7 @@ void Calc::init()
 
 Calc::data Calc::input()
 {
-
+    Calc::data data;
+    cin >> data.number >> data.operation >> data.number2;
+    return data;
 }
