@@ -15,7 +15,7 @@ Calc::data Calc::input()
     return data;
 }
 
-void Calc::process(data data)
+void Calc::process(data& data)
 {
     switch (data.operation)
     {
