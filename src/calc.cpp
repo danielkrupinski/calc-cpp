@@ -33,3 +33,8 @@ double Calc::process(data& data)
             break;
     }
 }
+
+void Calc::output(data& data)
+{
+    
+}
