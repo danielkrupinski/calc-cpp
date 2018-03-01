@@ -17,5 +17,14 @@ Calc::data Calc::input()
 
 void Calc::process(data data)
 {
-    
+    switch (data.operation)
+    {
+        case '+':
+
+        case '-':
+
+        case '*':
+
+        case '/':
+    }
 }
