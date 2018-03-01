@@ -36,5 +36,8 @@ double Calc::process(data& data)
 
 void Calc::output(data&& data)
 {
-    cout << data.number << ' ' << data.operation << ' ' << data.number2 << " = " << process(data) << '\n';
+    cout << data.number << ' '
+         << data.operation << ' '
+         << data.number2 << " = "
+         << process(data) << '\n';
 }
