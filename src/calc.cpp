@@ -20,11 +20,12 @@ double Calc::process(data& data)
     switch (data.operation)
     {
         case '+':
-
+            return data.number+data.number2;
         case '-':
-
+            return data.number-data.number2;
         case '*':
-
+            return data.number*data.number2;
         case '/':
+            return data.number/data.number2;
     }
 }
