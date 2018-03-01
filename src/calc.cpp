@@ -21,11 +21,15 @@ double Calc::process(data& data)
     {
         case '+':
             return data.number+data.number2;
+            break;
         case '-':
             return data.number-data.number2;
+            break;
         case '*':
             return data.number*data.number2;
+            break;
         case '/':
             return data.number/data.number2;
+            break;
     }
 }
