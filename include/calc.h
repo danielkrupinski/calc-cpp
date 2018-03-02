@@ -13,7 +13,7 @@ namespace Calc {
     };
 
     data input();
-    double process(data&);
+    double process(const data&);
     void output(data&&);
 }
 
