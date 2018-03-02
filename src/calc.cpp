@@ -34,7 +34,7 @@ double Calc::process(const data& data)
     }
 }
 
-void Calc::output(data&& data)
+void Calc::output(const data& data)
 {
     cout << data.number << ' '
          << data.operation << ' '
