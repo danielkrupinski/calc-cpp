@@ -14,7 +14,7 @@ namespace Calc {
 
     data input();
     double process(const data&);
-    void output(const data&);
+    void output(const data&&);
 }
 
 #endif
