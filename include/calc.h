@@ -2,7 +2,6 @@
 #define CALC_H
 
 #include <iostream>
-#include <vector>
 
 namespace Calc {
     void init();
